@@ -1,4 +1,9 @@
 ###
+# MISC
+###
+.vscode/*
+
+###
 # PYTHON
 ###
 
