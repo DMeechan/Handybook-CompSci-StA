@@ -1,5 +1,6 @@
-# Handybook - CompSci @ St Andrews
-A Handybook of tips and tricks for the budding CompSci student @ St Andrews
+# CompSci Handybook
+
+A Handybook of tips and tricks for the budding CompSci student.
 
 ## Why does this exist?
 
